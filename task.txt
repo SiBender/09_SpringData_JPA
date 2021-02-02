@@ -1,0 +1,1 @@
+Rewrite the DAO layer. Use Spring Data JPA instead of Hibernate.
